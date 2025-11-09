@@ -3,6 +3,7 @@ without having to provide my information to third parties. The statistics and in
 
 <img width="500" height="200" alt="Spotify_Full_Logo_RGB_Green" src="https://github.com/user-attachments/assets/e2fa3e06-00e8-4da3-a73b-755d77f45567" />
 
+image source: https://developer.spotify.com/documentation/design#using-our-logo
 
 I have written the code such that it can be reused with occasional minor changes. I will update it at a later point to make it completely reusable.
 
