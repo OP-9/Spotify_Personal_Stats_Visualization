@@ -11,9 +11,10 @@ Currently, this notebook does the following:
   
 1. Reads in all the .json files and saves the data in a dataframe
 2. Cleans the resulting the dataframe by identifying and removing duplicated and missing values
-3. Extracts additional information from the songs in the dataframe through the Spotify API
-4. Provides visualisations of monthly listening trends, trends for different artists, changes in listening on a yearly basis, and the top songs of all time
-5. Highlight the top songs played by the user for any artist
+3. Extracts additional information for all the songs in the dataframe through the Spotify API
+4. Provides insights on listening behaviour on a monthly and yearly basis, as well as since Spotify was first used by the user
+5. Presents visualisations of monthly listening trends, trends for different artists, changes in listening on a yearly basis, and the user's top tracks of all time
+6. Highlights the top songs played by the user for any artist
 
 
 As for next steps. I plan on identifying relationships between the changes in playtime of artists and the latest release of the artists music, and to identify the favourite 
