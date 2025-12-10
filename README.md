@@ -5,7 +5,7 @@ without having to provide my information to third parties. The statistics and in
 
 image source: https://developer.spotify.com/documentation/design#using-our-logo
 
-I have written the code such that it can be reused with occasional minor changes. I will update it at a later point to make it completely reusable.
+I have written the code such that it can be reused with minor modifications. I will update it at a later point to make it completely reusable.
 
 Currently, this notebook does the following:
   
@@ -17,6 +17,6 @@ Currently, this notebook does the following:
 6. Highlights the top songs played by the user for any artist
 
 
-As for next steps. I plan on identifying relationships between the changes in playtime of artists and the latest release of the artists music, and to identify the favourite 
+As for next steps, I plan on identifying relationships between the changes in playtime of artists and the latest release of the artists music, and to identify the favourite 
 genres of the user (currently, Spotify has deprecated the retrieval of genre information through their API).
   
